@@ -6,7 +6,7 @@ Creates or updates an event enquiry from website forms and handles customer prof
 
 ### Endpoint
 ```
-POST /website/save-event-enquiry/
+POST https://logout.world/website/save-event-enquiry/
 ```
 
 ### Authentication
