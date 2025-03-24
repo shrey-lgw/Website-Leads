@@ -1,13 +1,12 @@
-Here's a developer-friendly API documentation for the `save_event_enquiry` endpoint:
 
-# Event Enquiry API Documentation
+# Capture Webiste Leads API Documentation
 
 ## Save Event Enquiry
 Creates or updates an event enquiry from website forms and handles customer profile creation/updates.
 
 ### Endpoint
 ```
-POST /api/save-event-enquiry/
+POST /website/save-event-enquiry/
 ```
 
 ### Authentication
@@ -131,6 +130,6 @@ curl -X POST 'https://your-domain.com/api/save-event-enquiry/?api_key=your-api-k
 - Contact support for increased limits
 
 ### Support
-For API support, contact: support@your-domain.com
+For API support, contact: support@logout.world.com
 
 This documentation provides a clear understanding of how to interact with the enquiry API endpoint, including all possible parameters, expected responses, and error handling scenarios.
